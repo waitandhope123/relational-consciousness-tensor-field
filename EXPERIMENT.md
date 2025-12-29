@@ -6,11 +6,12 @@ measured *after* all standard calibrations.
 ---
 
 ## Experimental Setup (Reference)
+
 - Geometry: sphere–plane (PFA)
 - Sphere radius: **R = 5 μm**
 - Separation: **d = 100 nm**
 - Baseline Casimir force:  
-  \( F_{\text{std}} \approx 104 \) pN
+  **F_std ≈ 104 pN**
 - Observable:  
   **ΔF_anom = F_measured − F_calibrated**
 
@@ -26,10 +27,10 @@ All criteria refer to **post-calibration residuals** ΔF_anom.
 
 2. **Self-paired tissue**  
    ΔF_anom ≠ 0  
-   → violates \( C_{ii}=0 \)  
+   → violates **C_ii = 0**  
    → **MODEL FALSIFIED**
 
-3. **NDE tissue**  
+3. **Reported NDE-associated tissue**  
    ΔF_anom indistinguishable from control (±1 pN)  
    → **MODEL FALSIFIED**
 
@@ -40,6 +41,7 @@ All criteria refer to **post-calibration residuals** ΔF_anom.
 ---
 
 ## Controls (Required)
+
 - Thermal drift subtraction
 - Patch-potential calibration
 - Electrostatic nulling
@@ -49,9 +51,9 @@ All criteria refer to **post-calibration residuals** ΔF_anom.
 ---
 
 ## Prediction (Exploratory)
-\[
-\Delta F_{\text{anom}} \approx 10 \text{ pN}
-\]
+
+$$\Delta F_{\text{anom}} \approx 10\ \text{pN}$$
+
 (human-pair vs self-pair differential)
 
 This is a **high-risk, killable prediction**, not an established effect.
