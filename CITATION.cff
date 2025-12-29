@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Relational Consciousness Tensor Field: Falsifiable Phenomenological Model"
+authors:
+  - family-names: YourLastName
+    given-names: YourFirstName
+version: v1.2
+date-released: 2025-01-01
+repository-code: https://github.com/<user>/relational-consciousness-field
+license: MIT
+abstract: >
+  Falsifiable phenomenological model proposing a physical correlate for anomalous
+  information access, with explicit experimental failure modes and toy consistency checks.
