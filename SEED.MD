@@ -123,14 +123,21 @@ F_{\text{std}} =
 
 ---
 
-## Private Backup / Repo Structure
+# Repository Map – RCTF Theory Stack
+
+This document defines the logical role of each repository in the
+Relational Consciousness Tensor Field (RCTF) framework.
+It is **not** a project overview or README.
+
+---
+
+## Active Repositories
 
 ```text
-repos/
-├── repo1_no-go-local-qft.ipynb
-├── repo2_wheeler-dewitt-Hij.ipynb
-├── repo3_tqec-postdeath.ipynb
-├── repo4_psi-space-gauge.ipynb
-├── repo5_p-data-causal-chains.csv
-├── repo6_u-infinity-bundle.tex
-└── T01_full_validation.ipynb
+relational-consciousness-field/
+repo_01_qgec/
+repo_02_persistence/
+repo_03_locality/
+repo_04_relational/
+repo_05_obstructions/
+repo_06_semiclassical_vs_fundamental/
