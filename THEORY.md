@@ -25,7 +25,8 @@ These constraints **motivate** the model; they do not uniquely imply it.
 
 ## Phenomenological Action
 
-The illustrative effective action is written as  
+The illustrative effective action is written as
+
 $$S_{\mathrm{eff}}=\int d^4x\sqrt{-g}\left[R+\alpha\,C_{ij}\nabla^2 C^{ij}+\beta\,F^{ij}_{\mu\nu}F^{\mu\nu}_{ij}\right]$$
 
 The action is illustrative only and serves to encode the stated axioms at the level of an effective field description.
