@@ -40,6 +40,6 @@ Falsifiable phenomenological model proposing a physical correlate for anomalous 
 
 ## Quick Start
 ```bash
-git clone https://github.com/<user>/relational-consciousness-field
+git clone https://github.com/waitandhope123/relational-consciousness-tensor-field/
 cd relational-consciousness-field
 jupyter notebook T01_final_v2.ipynb
