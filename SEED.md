@@ -173,10 +173,4 @@ The current arXiv submission represents approximately $10\%$ of the full stack.
 
 ```text
 repos/
-├── repo1_no-go-local-qft.ipynb
-├── repo2_wheeler-dewitt-Hij.ipynb
-├── repo3_tqec-postdeath.ipynb
-├── repo4_psi-space-gauge.ipynb
-├── repo5_p-data-causal-chains.csv
-├── repo6_u-infinity-bundle.tex
-└── T01_full_validation.ipynb
+└── T01_final_v2.ipynb
